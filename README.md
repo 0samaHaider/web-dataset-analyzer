@@ -96,5 +96,3 @@ The extension ensures accuracy by **detecting only real datasets**, ignoring emp
 * Only works on **HTML table datasets**
 * Does not scrape **dynamically loaded tables** (e.g., via JavaScript frameworks) unless they are present in the DOM
 * Exported filename does not yet include **table heading or host automatically**
-
-Do you want me to do that?
