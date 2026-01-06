@@ -61,13 +61,39 @@ The extension ensures accuracy by **detecting only real datasets**, ignoring emp
 
 ## 🔹 How to Use
 
-1. Open a webpage containing tables
-2. Click the **Web Dataset Analyzer** icon in the Chrome toolbar
-3. The popup will display:
+Got it! Here's the **updated “How to Use” section** for your README with clear steps for users to **download and load the extension manually**:
 
-   * Dataset detection status
-   * Dataset statistics
-4. Click **Export Excel** to download the dataset along with statistics
+---
+
+## 🔹 How to Use
+
+1. **Download the extension code**
+
+   * Click **Code → Download ZIP** on this GitHub repository
+   * Extract the folder to a convenient location on your computer
+
+2. **Load the extension in Chrome**
+
+   * Open Chrome and go to:
+
+     ```
+     chrome://extensions
+     ```
+   * Turn on **Developer mode** (top-right toggle)
+   * Click **Load unpacked** → select the folder where you extracted the extension
+
+3. **Use the extension**
+
+   * Open any webpage containing tables
+   * Click the **Web Dataset Analyzer** icon in the Chrome toolbar
+   * The popup will display:
+
+     * Dataset detection status
+     * Dataset statistics
+
+4. **Export data**
+
+   * Click **Export Excel** to download the dataset along with statistics
 
 ---
 
