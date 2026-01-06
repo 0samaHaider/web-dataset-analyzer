@@ -61,12 +61,6 @@ The extension ensures accuracy by **detecting only real datasets**, ignoring emp
 
 ## 🔹 How to Use
 
-Got it! Here's the **updated “How to Use” section** for your README with clear steps for users to **download and load the extension manually**:
-
----
-
-## 🔹 How to Use
-
 1. **Download the extension code**
 
    * Click **Code → Download ZIP** on this GitHub repository
